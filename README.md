@@ -1,17 +1,8 @@
-# Things need to know
-Please do  `npm install` before running `npm start` since this repo does not contain node_modules
+# How to run the code
+1. Running  `npm install` 
+2. Enter `npm start`
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
+Then the app will running in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
