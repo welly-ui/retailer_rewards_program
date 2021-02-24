@@ -1,0 +1,48 @@
+{
+  "tableHeader": ["Date", "Bought Items", "Spent", "Points Earned"],
+  "tableData": [
+    {
+      "date": "2021-01-05",
+      "items": [
+        "Beverage",
+        "Cookies"
+      ],
+      "spent": 125.06
+    },
+    {
+      "date": "2021-01-14",
+      "items": [
+        "Cookies"
+      ],
+      "spent": 8.05
+    },
+    {
+      "date": "2021-01-17",
+      "items": [
+        "Cookies"
+      ],
+      "spent": 76.8
+    },
+    {
+      "date": "2021-02-09",
+      "items": [
+        "Bakery"
+      ],
+      "spent": 108.2
+    },
+    {
+      "date": "2021-02-10",
+      "items": [
+        "Bakery, Beverage"
+      ],
+      "spent": 120
+    },
+    {
+      "date": "2021-03-09",
+      "items": [
+        "Vegetables"
+      ],
+      "spent": 230.8
+    }
+  ]
+}
